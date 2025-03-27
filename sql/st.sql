@@ -242,3 +242,5 @@ insert into dwd_payment_info select * from ods_payment_info where dt='2025-03-24
 select * from dwd_payment_info;
 
 
+
+
