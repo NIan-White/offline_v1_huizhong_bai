@@ -5,3 +5,4 @@ sh mysql_to_hdfs all
 #下载连接器插件
 sh install-plugin.sh 2.3.9
 
+ python python_conf.py
